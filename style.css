@@ -46,7 +46,7 @@
     --type-base: calc(0.9em + 0.9vw); } }
 @media (min-width: 90em) {
   :root {
-    --type-base: 2.2em; } }
+    --type-base: 1.6em; } }
 @font-face {
   font-family: 'Source Sans Variable';
   font-weight: 200 900;
